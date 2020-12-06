@@ -1,0 +1,2 @@
+Kiran Ghimire,9801642514,D299,KamalPokhari,Rent,Micro-Bus,8800,03/01/2020,
+Shre Shrestha,9800888554,D200,Lagankhel,Rent,Cab,8000,04/01/2020,
